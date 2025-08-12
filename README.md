@@ -1,6 +1,6 @@
 # To-Do List App (C++)
 
-## Option Chosen
+## Description
 A command-line interactive To-Do list application that stores tasks in either TXT or JSON format (controlled via `#define USE_JSON`).
 
 ## How to Run
